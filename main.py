@@ -1,3 +1,3 @@
-print(main)
-print(double)
-print(third)
+print("main")
+print("double")
+print("third")
